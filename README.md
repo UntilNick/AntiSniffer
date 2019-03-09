@@ -6,4 +6,4 @@ Stop sniffer work
 Находит по любому названию даже если изменить имя сниффера.
 Список можно дополнять.
 
-![AntiSniffer](https://i.yapx.ru/Dj7cd.gif)
+![AntiSniffer](https://i.gifer.com/3NsBo.gif)

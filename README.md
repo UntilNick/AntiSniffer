@@ -1,3 +1,4 @@
 # AntiSniffer
 Stop sniffer work
-[!](https://i.yapx.ru/Dj7cd.gif)
+
+![AntiSniffer](https://i.yapx.ru/Dj7cd.gif)

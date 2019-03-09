@@ -1,0 +1,2 @@
+# AntiSniffer
+Stop sniffer work
